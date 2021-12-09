@@ -1,6 +1,6 @@
 # Online VIN decoder - java client
 
-This is an example of java client for VinLink - online decoder.
+This is an example of java client for VinLink - online VIN decoder.
 
 You need to create an account at www.vinlink.com
 
